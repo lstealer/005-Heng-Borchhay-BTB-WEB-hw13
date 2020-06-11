@@ -1,0 +1,11 @@
+.imgBox{
+    width: 30vw;
+}
+.image{
+    width: 100%;
+    max-height: 40vh;
+    border:1px solid black;
+}
+.sms{
+    color: red;
+}
